@@ -17,6 +17,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="verify-yeahpromos" content="0a871fe85412" />
+      </head>
       <body>{children}</body>
     </html>
   )
